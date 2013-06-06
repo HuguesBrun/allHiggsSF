@@ -1,0 +1,8 @@
+*.png
+*.eps
+*.pdf
+*.gif
+*.root
+*.info
+.DS_*
+*/.DS_*
